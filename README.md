@@ -1,12 +1,13 @@
 🏙️ Optimización de Rentabilidad para Hosts de Airbnb en NYC
 📊 Dashboard Analítico en Looker Studio + Certificación GA4
 
+
 Este proyecto presenta un dashboard interactivo en Looker Studio orientado a mejorar la toma de decisiones de hosts e inversores de Airbnb en la ciudad de Nueva York, proporcionando visibilidad sobre precios competitivos, ocupación, demanda y potencial de ingresos por zona.
 
-🚀 Dashboard en Looker Studio
 
 👉 Ver Dashboard Completo:
 https://lookerstudio.google.com/reporting/443ba914-6ad5-4c70-b2ef-edd45929a4a6
+
 
 🎯 Objetivo del dashboard
 
@@ -22,6 +23,7 @@ Relación entre número de reviews y precio.
 
 Comportamiento de usuarios mediante datos de GA4 (demo).
 
+
 🛠️ Fuentes de datos utilizadas
 
 Airbnb NYC – listings.csv (dataset público)
@@ -30,6 +32,7 @@ Airbnb NYC – listings.csv (dataset público)
 Google Analytics 4 – cuenta demo
 → Métricas de comportamiento de usuarios complementarias.
 
+
 👥 Usuarios del reporte
 
 Hosts individuales
@@ -37,6 +40,7 @@ Hosts individuales
 Inversores inmobiliarios
 
 Equipos de marketing
+
 
 📈 Preguntas de negocio abordadas
 
@@ -47,6 +51,7 @@ Equipos de marketing
 ¿Cómo impacta el número de reviews en el precio?
 
 ¿Qué tipos de propiedades son las más demandadas?
+
 
 🔧 Elementos utilizados en el dashboard
 
